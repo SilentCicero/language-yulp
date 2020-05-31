@@ -1,0 +1,16 @@
+{
+  "name": "language-yulp",
+  "version": "0.1.0",
+  "description": "Yul+ language support in Atom",
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "grammar"
+  ],
+  "repository": "https://github.com/SilentCicero/language-yulp",
+  "license": "MIT",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  }
+}
